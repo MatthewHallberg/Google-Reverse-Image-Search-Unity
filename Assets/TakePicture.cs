@@ -8,13 +8,13 @@ public class TakePicture : MonoBehaviour
 	//*****THE getData.php FILE THAT YOU NEED TO HOST ON A SERVER THAT HAS NODE.JS INSTALLED IS IN THE ASSETS FOLDER!*****
 
 	//change this to reflect your custom hosted url followed by getData.php?url=
-	private const string BASE_URL = "www.<YOUR_SITE>.com/getData.php?url=";
+	private const string BASE_URL = "www.matthewhallberg.com/getData.php?url=";
 	//enter your google api key for custom search here
-	private const string GOOGLE_API_KEY = "***************************";
+	private const string GOOGLE_API_KEY = "AIzaSyD9QU4FJ8G2Y8E8ZtOv_RD9KvhcC97jeC0";
 	//enter your cloud name from cloudinary here
-	private const string CLOUD_NAME = "*********";
+	private const string CLOUD_NAME = "db9b6mptp";
 	//enter your cloudinary upload preset name
-	private const string UPLOAD_PRESET_NAME = "****";
+	private const string UPLOAD_PRESET_NAME = "fiwicaw7";
 
 	//private const string CLOUDINARY_API_KEY = "464228211727792";
 
